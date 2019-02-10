@@ -6,5 +6,5 @@ This was created from [this medium post](https://blog.usejournal.com/creating-a-
 
 ```node
 npm install
-npm run
+npm start
 ```
